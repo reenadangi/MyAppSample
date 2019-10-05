@@ -1,23 +1,15 @@
 # **Reena Dangi**
-## **.Net Developer, Scrum Master** <img src="PSMI.PNG" width="50" height="50" /> 
+## **.Net Developer, Scrum Master** <img src="./PSMI.PNG" width="50" height="50" /> 
 
 > [Download PDF](resume.pdf)  
 > [reena.dangi@gmail.com](reena.dangi@gmail.com)  
 > (262) 271-1380
 
+## [About](#about)   | [Tecnical Skills](#Tecnicalskills)   | [Work Experience](#workexperience) | [Education](#education) | [Certifications](#certifications)  
 
 
 
-
-# Contents
-- [About](#about) 
-- [Professional Summary](#summary) 
-
-| [ABOUT](#about)   | [TECHNICAL SKILLS](#Tecnicalskills)   | [Work Experience](#workexperience)| [Education](#education)| [Certifications](#certifications)  
-| ------------ | ------------ |
-
-
-> ## About
+> ## About 
    ### PSM Certified
    ### PMI Certified (CAPM 2019-2024)
 
