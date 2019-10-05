@@ -3,7 +3,7 @@
 ## **.Net Developer, Scrum Master** <img src=".\PSMI.PNG" width="50" height="50" /> 
 
 > [Download PDF](resume.pdf)
-> [reena.dangi@gmail.com](reena.dangi@gmail.com)  
+> [reena.dangi@gmail.com](reena.dangi@gmail.com) 
 > (262) 271-1380
 
 ## [About](#about)   | [Tecnical Skills](#Tecnicalskills)   | [Work Experience](#workexperience) | [Education](#education) | [Certifications](#certifications)  
@@ -17,14 +17,14 @@ My creative side is not limited in corporate life, I am also an entrepreneur whe
 Visit me at - [Talent Zone- Let your cretive best out!](https://www.facebook.com/talentzoneACC/ "Talent Zone") 
 
 > ## Tecnicalskills
-| **Programming Languages**  | C#, Vb.net, Java, Asp.net MVC, WEB API, HTML, CSS, Bootstrap 
-| ------------ | ------------ |
+| **Programming Languages** |  C#, Vb.net, Java, Asp.net MVC, WEB API, HTML, CSS, Bootstrap     
+| :------------ | :------------ |
 | **Database** | SQL Server, MS-Access, Oracle  |
 | **Tools/Applications** | Jira, Service Now, Microsoft Visual Studio,Github,Visual studio code, .Net frameworks, MS Project, MS office  |
 |**Operating System**  | Windows 95/98/2000/XP, Win 7 and 10   |
 |**Infrastructure**   |  VPN |
 |   |   |
-|   |   |
+
 
 >## workexperience
 
@@ -32,12 +32,12 @@ Visit me at - [Talent Zone- Let your cretive best out!](https://www.facebook.com
 | ------------ | ------------ | 
 
 
-|  PROJECT | JUNIPER IT DEVELOPMENT & SUPPORT   |
+|  PROJECT | JUNIPER IT DEVELOPMENT & SUPPORT (June 2008- Jan 2012 )  |
 | ------------ | ------------ |
 | Role  |  .Net Project Lead |
 |Client   |  [Juniper Networks](https://www.juniper.net/us/en/ "Juniper") |
 | Team Size  |50   |
-| June 2008- Jan 2012    |
+
 
 ### **Project description** – 
 Support and enhancement across multiple applications and areas like .Net, Java, PeopleSoft, POS, Hyperion and other packaged applications for more than 110 Juniper business applications. Team provides 24*7/5 SLA based support. 
@@ -53,12 +53,12 @@ Support and enhancement across multiple applications and areas like .Net, Java, 
 *  Billing & Invoicing. 
 -------
 
-|  PROJECT | DYNEA SALES AND EXPENSE TOOL  |
+|  PROJECT | DYNEA SALES AND EXPENSE TOOL (April 2007- June 2008 )  |
 | ------------ | ------------ |
 | Role  |  FUNCTION AND TECHNICAL LEAD |
 |Client   |  [Dynea](https://www.dynea.com/ "Dynea") |
 | Team Size  |13   |
-| April 2007- June 2008   |
+
 
 ### **Project Description** 
 #### Sierra Internal  
@@ -66,12 +66,13 @@ Develop an internal application
 #### Role and Responsibilities:
 * Coding and unit testing.
 * Deployment.
-|  PROJECT | Sierra Internal project  |
-| ------------ | ------------ |
+
+|  PROJECT | Sierra Internal project (Sep 2006- March 2007 ) |
+| :------------ | :------------ |
 | Role  |  .dot net developer |
 |Client   |  [Dynea](https://www.dynea.com/ "Dynea") |
 | Team Size  |13   |
-| Sep 2006- March 2007   |
+|   |
 
 ### **Project Description** 
 #### Sales & Expense 
@@ -82,17 +83,16 @@ These tools were developed to prepares a twelve-month Corporate Sales Budget bas
 * Coding and unit testing.
 * Deployment.
 ______
-|  PROJECT | HYDRA  |
-| ------------ | ------------ |
+
+|  PROJECT | HYDRA (Sep 2004- Sep 2005) |
+| :------------ | :------------ |
 | Role  |  .Net Team Lead |
 |Client   |  [AOC](https://www.aoc-resins.com/index.html "AOC")|
 |Team Size  |6   |
-|Sep 2004- Sep 2005  |
+
 
 ### **Project Description** 
 AOC Hydra is a customized MES application for production execution and quality management of the resin manufacturing plants of AOC.
-### **Technical Environment** 
-C#, OPM, Net Framework 1.1, ASP.Net, C#, Visual Studio.Net 2003, VSS, ADAM, Active Directory & Oracle 9i & Apps, Dundas Software & SPC Charting.
 ### **Roles/Responsibilities**
 
 * Requirement gathering.
@@ -105,16 +105,11 @@ C#, OPM, Net Framework 1.1, ASP.Net, C#, Visual Studio.Net 2003, VSS, ADAM, Acti
 * Involved in demonstration of product to client. 
 * Closely lipase with Project Manager, keeping them informed of progress.
 ___
-|  PROJECT | Trane Strategic Partner Portal  |
+|  PROJECT | Trane Strategic Partner Portal (May 2004- Sep 2004)  |
 | ------------ | ------------ |
 | Role  |  .Net Developer |
 |Client   |  [Trane](https://www.trane.com/Index.aspx "Trane")|
 | Team Size  |4   |
-| May 2004- Sep 2004 |
-|Environment| C#, ASP.NET, SQL Server 2000 Professional, IIS5.0, VSS|
-
-
-
 
 #### **Project Description** –
 The Strategic Partners System is a new system that replaces what are currently manual processes.
