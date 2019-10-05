@@ -1,27 +1,15 @@
-# **Reena Dangi**
-## **.Net Developer, Scrum Master** <img src="./PSMI.PNG" width="50" height="50" /> 
+# **Reena Dangi** 
 
-> [Download PDF](resume.pdf)  
+## **.Net Developer, Scrum Master** <img src=".\PSMI.PNG" width="50" height="50" /> 
+
+> [Download PDF](resume.pdf)
 > [reena.dangi@gmail.com](reena.dangi@gmail.com)  
 > (262) 271-1380
 
 ## [About](#about)   | [Tecnical Skills](#Tecnicalskills)   | [Work Experience](#workexperience) | [Education](#education) | [Certifications](#certifications)  
 
-
-
 > ## About 
-   ### PSM Certified
-   ### PMI Certified (CAPM 2019-2024)
-
-Scrum master and project lead with over 8 Years of rich experience in waterfall and agile across all practices in client services. Proficient in various roles in IT/Software domain involved in Scrum, Project management, software development and support, functional and technical documentation. I started my career with software developer and grew into project manager.
-### **Core Qualification –**
-----
-* Proficient in Scrum and SAFE process along with team coaching, very good communication and interpersonal skills
-* Software development using C#, ASP.NET MVC, WEB API, PL-SQL and SQL Server, Azure cloud computing
-* Problem solving, troubleshooting
-* Proven ability to creatively work with big and small teams
-* Because I grew from a developer to project manager, I am natural at teamwork and understanding technical impediments. 
-
+Scrum master and .net developer with over 6 Years of experience in waterfall and agile across all practices in client services. Proficient in various roles in IT/Software domain involved in Scrum,Project management, software development and support, functional and technical documentation. I started my career with software developer and grew into project manager.
 ### **You can't miss this !**
 ----
 My creative side is not limited in corporate life, I am also an entrepreneur where I live another passion of mine which is ‘Performing Arts’. To fullfill my creative thrust I run a ‘Theatre Club’, where I work with all age groups to bring their creative best. This entrepreneur stint has given me an amazing confidence to be able to conceptualize an idea and executing it to perfection.
@@ -29,12 +17,11 @@ My creative side is not limited in corporate life, I am also an entrepreneur whe
 Visit me at - [Talent Zone- Let your cretive best out!](https://www.facebook.com/talentzoneACC/ "Talent Zone") 
 
 > ## Tecnicalskills
-
-| **Programming Languages**  | C#, Vb.net, Java, Asp.net MVC, WEB API, PL- SQL    |
+| **Programming Languages**  | C#, Vb.net, Java, Asp.net MVC, WEB API, HTML, CSS, Bootstrap 
 | ------------ | ------------ |
-|  **Database** | SQL Server, MS-Access, Oracle  |
-| **Tools/Applications** | Jira, Service Now, Microsoft Visual Studio, .Net frameworks, MS Project, MS office  |
-| **Operating System**  | Windows 95/98/2000/XP, Win 7 and 10   |
+| **Database** | SQL Server, MS-Access, Oracle  |
+| **Tools/Applications** | Jira, Service Now, Microsoft Visual Studio,Github,Visual studio code, .Net frameworks, MS Project, MS office  |
+|**Operating System**  | Windows 95/98/2000/XP, Win 7 and 10   |
 |**Infrastructure**   |  VPN |
 |   |   |
 |   |   |
@@ -43,20 +30,18 @@ Visit me at - [Talent Zone- Let your cretive best out!](https://www.facebook.com
 
 |  [Hitachi Consulting](https://www.hitachiconsulting.com/ "Hitachi Consulting")  |  MAY’04 – JAN’10 |   
 | ------------ | ------------ | 
-________
 
-|  PROJECT | JUNIPER IT SUPPORT (AMS)  |
+
+|  PROJECT | JUNIPER IT DEVELOPMENT & SUPPORT   |
 | ------------ | ------------ |
 | Role  |  .Net Project Lead |
 |Client   |  [Juniper Networks](https://www.juniper.net/us/en/ "Juniper") |
 | Team Size  |50   |
-|  Duration | 2years   |
+| June 2008- Jan 2012    |
 
 ### **Project description** – 
 Support and enhancement across multiple applications and areas like .Net, Java, PeopleSoft, POS, Hyperion and other packaged applications for more than 110 Juniper business applications. Team provides 24*7/5 SLA based support. 
-### **Role** 
-As project lead was responsible for leading cross functional project teams that are co-located and globally distributed. Ticket management was through Juniper Network’s Service now and I was ensuring appropriate assignment of tickets to the team members, prioritizing basis client expectations, criticality and team availability. Also, was focused on root cause corrective actions as well to eliminate repeating issues. 
-### **Responsibilities** 
+### **Role & Responsibilities** 
 *	Managing a team of more than 50 resources onsite and offshore.
 *	Project Management Plan.
 *	Leading 110 business applications in various technologies like .Net, Java, PL-SQL, Hyperion, PeopleSoft, HRMS.
@@ -64,24 +49,33 @@ As project lead was responsible for leading cross functional project teams that 
 *	Skill Set assessment & Training Plan.
 *	SQA Planning.
 *	Risk Analysis & management
-*   Reviews (WSRs & QBR) with Juniper IT managers.
-*   Billing & Invoicing. 
+*  Reviews (WSRs & QBR) with Juniper IT managers.
+*  Billing & Invoicing. 
 -------
 
 |  PROJECT | DYNEA SALES AND EXPENSE TOOL  |
 | ------------ | ------------ |
 | Role  |  FUNCTION AND TECHNICAL LEAD |
-|Client   |  [Juniper Networks](https://www.juniper.net/us/en/ "Juniper") |
+|Client   |  [Dynea](https://www.dynea.com/ "Dynea") |
 | Team Size  |13   |
-|  Duration | 10 Months   |
-
-
+| April 2007- June 2008   |
 
 ### **Project Description** 
-#### Sales Forecast Tool
-The tool automatically prepares a twelve-month Corporate Sales Budget based on the Sales Forecasts. This tool provides entering forecast, consolidated view of all forecast and comparison of corporate and 12 months forecast budgets. 
-#### Expense Forecasting Tool
-This tool helps user to create and submit expense forecast for a given account group, product and cost center.
+#### Sierra Internal  
+Develop an internal application 
+#### Role and Responsibilities:
+* Coding and unit testing.
+* Deployment.
+|  PROJECT | Sierra Internal project  |
+| ------------ | ------------ |
+| Role  |  .dot net developer |
+|Client   |  [Dynea](https://www.dynea.com/ "Dynea") |
+| Team Size  |13   |
+| Sep 2006- March 2007   |
+
+### **Project Description** 
+#### Sales & Expense 
+These tools were developed to prepares a twelve-month Corporate Sales Budget based on the Sales expanse Forecasts.   
 #### Role and Responsibilities:
 * Requirement gathering.
 * Technical and function documentation.
@@ -92,8 +86,8 @@ ______
 | ------------ | ------------ |
 | Role  |  .Net Team Lead |
 |Client   |  [AOC](https://www.aoc-resins.com/index.html "AOC")|
-| Team Size  |6   |
-|  Duration | 1 year |
+|Team Size  |6   |
+|Sep 2004- Sep 2005  |
 
 ### **Project Description** 
 AOC Hydra is a customized MES application for production execution and quality management of the resin manufacturing plants of AOC.
@@ -116,7 +110,7 @@ ___
 | Role  |  .Net Developer |
 |Client   |  [Trane](https://www.trane.com/Index.aspx "Trane")|
 | Team Size  |4   |
-|  Duration | 5 Months |
+| May 2004- Sep 2004 |
 |Environment| C#, ASP.NET, SQL Server 2000 Professional, IIS5.0, VSS|
 
 
