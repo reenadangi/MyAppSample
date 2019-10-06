@@ -11,9 +11,6 @@ Scrum master and .net developer with over 6 Years of experience in waterfall and
 
 
 > ## TecnicalSkills 
-
-
-
 | **Programming Languages** |  C#, Vb.net, Java, Asp.net MVC, WEB API, HTML, CSS, Bootstrap     
 | :------------ | :------------ |
 | **Database** | SQL Server, MS-Access, Oracle  |
@@ -25,18 +22,18 @@ Scrum master and .net developer with over 6 Years of experience in waterfall and
 
 >## WorkExperience
 
->###  [Talent Zone](https://www.facebook.com/talentzoneACC/ "Talent zone")  |  May’10 – Till Date|   
+>###  [Talent Zone](https://www.facebook.com/talentzoneACC/ "Talent zone")  (  May’10 – Till Date ) 
 
 
-|  Independent Entrepreneur |  |
+ Independent Entrepreneur | 
 | ------------ | ------------ |
->My creative side is not limited in corporate life, I am an entrepreneur where I live another passion of mine which is **‘Performing Arts’**. To fullfill my creative thrust I run a ‘Theatre Club’, where I work with all age groups to bring their creative best. This entrepreneur stint has given me an amazing confidence to be able to conceptualize an idea and executing it to perfection.
-  
->###  [Hitachi Consulting](https://www.hitachiconsulting.com/ "Hitachi Consulting")  |  MAY’04 – JAN’10 |   
+My creative side is not limited in corporate life, I am an sucessful entrepreneur where I live another passion of mine which is **‘Performing Arts’**. To fullfill my creative thrust I run a ‘Theatre Club’, where I work with all age groups to bring their creative best. This entrepreneur stint has given me an amazing confidence to be able to conceptualize an idea and executing it to perfection.
+_____  
+>###  [Hitachi Consulting](https://www.hitachiconsulting.com/ "Hitachi Consulting")  ( MAY’04 – JAN’10 )  
 
 
 
-|  PROJECT | JUNIPER IT DEVELOPMENT & SUPPORT (June 2008- Jan 2012 )  |
+|  PROJECT | JUNIPER IT DEVELOPMENT & SUPPORT (June 2008- Jan 2010 )  |
 | ------------ | ------------ |
 | Role  |  .Net Project Lead |
 |Client   |  [Juniper Networks](https://www.juniper.net/us/en/ "Juniper") |
@@ -62,11 +59,9 @@ Support and enhancement across multiple applications and areas like .Net, Java, 
 | Role  |  FUNCTION AND TECHNICAL LEAD |
 |Client   |  [Dynea](https://www.dynea.com/ "Dynea") |
 | Team Size  |8  |
-________
 
 ### **Project Description** 
-#### Sales & Expense Tools
-These tools were developed to prepares a twelve-month Corporate Sales Budget based on the Sales expanse Forecasts.
+Sales & Expense Tools were developed to prepares a twelve-month Corporate Sales Budget based on the Sales expanse forecasts.
 
 #### Role and Responsibilities
 * Requirement gathering.
@@ -77,7 +72,7 @@ _________
 |  PROJECT | Sierra MSCOE (Sep 2006- March 2007 ) |
 | :------------ | :------------ |
 | Role  |  .dot net developer |
-|Client   |  [Sierra Atlantic]
+|Client   |  Sierra Atlantic
 | Team Size  |5   |
 |   |
 
