@@ -1,8 +1,7 @@
 # **Reena Dangi** <img src=".\psmi.png" width="40" height="40" /> <img src=".\certified-associate-in-project-management-capm.png" width="40" height="40" />
 ## **.Net Developer, Scrum Master** 
-##### 1108,N Plum Grove Rd, Schumuburg , Chicago, 60173 | <reena.dangi@gmail.com> | 262-271-1380
+##### [linked in](https://www.linkedin.com/in/reena-dangi-11ab3753/ "linked in") | [Download PDF](resume.pdf)  | <reena.dangi@gmail.com> |  1108,N Plum Grove Rd, Schumuburg , Chicago, 60173 | 262-271-1380
 
-[linked in](https://www.linkedin.com/in/reena-dangi-11ab3753/ "linked in") | [Download PDF](resume.pdf)  | 
 
 ## [About](#about)   | [Tecnical Skills](#TecnicalSkills)   | [Work Experience](#WorkExperience) | [Education](#education) | [Certifications](#certifications)  
 
@@ -25,25 +24,22 @@ Scrum master and .net developer with over 6 Years of experience in waterfall and
 >###  [Talent Zone](https://www.facebook.com/talentzoneACC/ "Talent zone")  (  May’10 – Till Date ) 
 
 
- Independent Entrepreneur | 
-| ------------ | ------------ |
+ ### **Independent Entrepreneur** 
+
 My creative side is not limited in corporate life, I am an sucessful entrepreneur where I live another passion of mine which is **‘Performing Arts’**. To fullfill my creative thrust I run a ‘Theatre Club’, where I work with all age groups to bring their creative best. This entrepreneur stint has given me an amazing confidence to be able to conceptualize an idea and executing it to perfection.
-_____  
->###  [Hitachi Consulting](https://www.hitachiconsulting.com/ "Hitachi Consulting")  ( MAY’04 – JAN’10 )  
 
+_____
 
-
-|  PROJECT | JUNIPER IT DEVELOPMENT & SUPPORT (June 2008- Jan 2010 )  |
+>###  [Hitachi Consulting](https://www.hitachiconsulting.com/ "Hitachi Consulting")  ( MAY’04 – JAN’10)  
+|PROJECT |JUNIPER IT DEVELOPMENT & SUPPORT (June 2008- Jan 2010)|
 | ------------ | ------------ |
-| Role  |  .Net Project Lead |
-|Client   |  [Juniper Networks](https://www.juniper.net/us/en/ "Juniper") |
-| Team Size  |50   |
-
-
-### **Project description** – 
+| Role|.Net Project Lead|
+|Client|[Juniper Networks](https://www.juniper.net/us/en/ "Juniper")|
+|Team Size|50|
+### **Project description** 
 Support and enhancement across multiple applications and areas like .Net, Java, PeopleSoft, POS, Hyperion and other packaged applications for more than 110 Juniper business applications. Team provides 24*7/5 SLA based support. 
 ### **Role & Responsibilities** 
-*	Managing a team of more than 50 resources onsite and offshore.
+* Managing a team of more than 50 resources onsite and offshore.
 *	Project Management Plan.
 *	Leading 110 business applications in various technologies like .Net, Java, PL-SQL, Hyperion, PeopleSoft, HRMS.
 *	Resource Planning. 
@@ -51,10 +47,10 @@ Support and enhancement across multiple applications and areas like .Net, Java, 
 *	SQA Planning.
 *	Risk Analysis & management
 *  Reviews (WSRs & QBR) with Juniper IT managers.
-*  Billing & Invoicing. 
+
 -------
 
-|  PROJECT | DYNEA SALES AND EXPENSE TOOL (April 2007- June 2008 )  |
+|  PROJECT | DYNEA SALES AND EXPENSE TOOL (April 2007- June 2008)|
 | ------------ | ------------ |
 | Role  |  FUNCTION AND TECHNICAL LEAD |
 |Client   |  [Dynea](https://www.dynea.com/ "Dynea") |
@@ -68,13 +64,15 @@ Sales & Expense Tools were developed to prepares a twelve-month Corporate Sales 
 * Technical and function documentation.
 * Coding and unit testing.
 * Deployment.
-_________
+
+_______
+
 |  PROJECT | Sierra MSCOE (Sep 2006- March 2007 ) |
 | :------------ | :------------ |
 | Role  |  .dot net developer |
 |Client   |  Sierra Atlantic
 | Team Size  |5   |
-|   |
+
 
 ### **Project Description** 
 Understand the need of the current businesses (like manufacturing, Health Care, etc), and technology. Based on the studies various templates and diagrams,estimates, whitepapers, project reviews were genrated. 
