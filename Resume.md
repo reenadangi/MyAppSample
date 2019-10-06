@@ -1,4 +1,4 @@
-# **Reena Dangi** <img src=".\PSMI.PNG" width="40" height="40" /> <img src=".\certified-associate-in-project-management-capm.png" width="40" height="40" />
+# **Reena Dangi** <img src=".\psmi.png" width="40" height="40" /> <img src=".\certified-associate-in-project-management-capm.png" width="40" height="40" />
 ## **.Net Developer, Scrum Master** 
 ##### 1108,N Plum Grove Rd, Schumuburg , Chicago, 60173 | <reena.dangi@gmail.com> | 262-271-1380
 
